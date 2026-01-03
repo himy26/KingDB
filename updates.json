@@ -1,0 +1,11 @@
+{
+  "version": "2026.1.1",
+  "announcement": "Welcome King Mohamed & Ola ❤️",
+  "new_models": {
+    "SM-A155F_FIXED": {
+      "Name": "A155F Android 15 Ultra Fix",
+      "CPU": "Helio G99",
+      "Fix": "Force_Hardware_Exploit"
+    }
+  }
+}
