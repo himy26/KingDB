@@ -9,3 +9,19 @@
     "XIAOMI-15T": {"Name": "Xiaomi 15T Pro", "CPU": "Dimensity 9400", "Fix": "Fastboot_MI_Account"}
   }
 }
+{
+  "version": "2026.1.6",
+  "announcement": "Huawei ID & FRP Support Added for Ola ❤️",
+  "new_models": {
+    "HUAWEI_KIRIN_GEN_1": {
+      "Name": "Huawei Kirin Universal",
+      "CPU": "Kirin 710/810/980/990",
+      "Fix": "Huawei_ID_Bypass_v1"
+    },
+    "HUAWEI_MTK_DEEP": {
+      "Name": "Huawei MTK Series",
+      "CPU": "MTK G80/G85/G90",
+      "Fix": "USB_COM_1.0_FRP_Fix"
+    }
+  }
+}
