@@ -1,27 +1,17 @@
 {
-  "version": "2026.5.0",
-  "announcement": "Global Update: Infinix, TECNO, & Oppo Models Added! ❤️",
-  "new_models": {
-    "SM-A155F": {"Name": "Galaxy A15", "CPU": "MTK Helio G99", "Fix": "FRP_Hardware_ADB"},
-    "INF-ZERO-40": {"Name": "Infinix Zero 40 5G", "CPU": "Dimensity 8200", "Fix": "FRP_ADB_Secure"},
-    "TEC-POVA-7": {"Name": "TECNO POVA 7 Pro", "CPU": "Dimensity 8050", "Fix": "Fastboot_ID_Bypass"},
-    "OPPO-RENO-13": {"Name": "Oppo Reno 13 Pro", "CPU": "Dimensity 9300+", "Fix": "FRP_ADB_Global"},
-    "XIAOMI-15T": {"Name": "Xiaomi 15T Pro", "CPU": "Dimensity 9400", "Fix": "Fastboot_MI_Account"}
-  }
-}
-{
-  "version": "2026.1.6",
-  "announcement": "Huawei ID & FRP Support Added for Ola ❤️",
-  "new_models": {
-    "HUAWEI_KIRIN_GEN_1": {
-      "Name": "Huawei Kirin Universal",
-      "CPU": "Kirin 710/810/980/990",
-      "Fix": "Huawei_ID_Bypass_v1"
+  "version": "8.8",
+  "status": "stable",
+  "new_models": [
+    {
+      "model": "MGA-AL40",
+      "device": "Huawei Enjoy 50",
+      "method": "Test Point Force"
     },
-    "HUAWEI_MTK_DEEP": {
-      "Name": "Huawei MTK Series",
-      "CPU": "MTK G80/G85/G90",
-      "Fix": "USB_COM_1.0_FRP_Fix"
+    {
+      "model": "SM-A155F",
+      "device": "Samsung A15",
+      "method": "Direct FRP Wipe"
     }
-  }
+  ],
+  "message": "Welcome King Mohamed & Ola ❤️"
 }
