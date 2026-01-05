@@ -32,4 +32,33 @@
       "Huawei Kirin Universal (710/810/980/990)"
     ]
   }
+  {
+  "version": "2026.7.0",
+  "status": "Online",
+  "announcement": "🔥 MOTO G34 5G (XT2363) Support Added! Dedicated to OLA ❤️",
+  "models": {
+    "samsung": [
+      "Galaxy A14 5G (SM-A146M/P/W)",
+      "Galaxy A14 (SM-A145F/FB/M/MB/R)",
+      "Galaxy A04/A04e (SM-A045F/M)",
+      "Galaxy A03s (SM-A037F/G/M)",
+      "Galaxy A02 (SM-A022F/G/M)",
+      "Galaxy A10s (SM-A107F/M)",
+      "Galaxy Tab A7 Lite (SM-T225C/N)"
+    ],
+    "nothing_moto": [
+      "MOTO G34 5G (XT2363) 🔥",
+      "Moto G06 Power",
+      "Nothing Phone (3)"
+    ],
+    "xiaomi": [
+      "Xiaomi 15T Pro",
+      "Redmi 15 5G"
+    ],
+    "huawei": [
+      "Huawei Enjoy 50 (MGA-AL40)",
+      "Huawei Kirin Universal"
+    ]
+  }
+}
 }
