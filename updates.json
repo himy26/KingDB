@@ -1,38 +1,4 @@
 {
-  "version": "2026.6.0",
-  "status": "Online",
-  "announcement": "🔥 HUGE UPDATE: Samsung New Security Unlock Added! ✅ Fixed Bugs",
-  "models": {
-    "samsung": [
-      "Galaxy A14 5G (SM-A146M/P/W)",
-      "Galaxy A14 (SM-A145F/FB/M/MB/R)",
-      "Galaxy A04/A04e (SM-A045F/M - SM-A042F/M)",
-      "Galaxy A03s (SM-A037F/G/M)",
-      "Galaxy A02 (SM-A022F/G/M)",
-      "Galaxy A22/A22 5G (SM-A225F/M - SM-A226B/BL/BR)",
-      "Galaxy A10s (SM-A107F/M)",
-      "Galaxy A21 (SM-A215W)",
-      "Galaxy M22 (SM-M225FV)",
-      "Galaxy M02 (SM-M022F/M)",
-      "Galaxy M01s (SM-M017F)",
-      "Galaxy Buddy (SM-A226L)",
-      "Galaxy F22 (SM-E225F)",
-      "Galaxy Tab A7 Lite (SM-T225C/N)"
-    ],
-    "xiaomi": [
-      "Xiaomi 15T Pro",
-      "Redmi 15 5G"
-    ],
-    "infinix_tecno": [
-      "Infinix Zero 40 5G",
-      "TECNO POVA 7 Pro"
-    ],
-    "huawei": [
-      "Huawei Enjoy 50 (MGA-AL40)",
-      "Huawei Kirin Universal (710/810/980/990)"
-    ]
-  }
-  {
   "version": "2026.7.0",
   "status": "Online",
   "announcement": "🔥 MOTO G34 5G (XT2363) Support Added! Dedicated to OLA ❤️",
@@ -60,5 +26,4 @@
       "Huawei Kirin Universal"
     ]
   }
-}
 }
