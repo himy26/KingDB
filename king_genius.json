@@ -1,0 +1,12 @@
+{
+  "version": "2026.10.0",
+  "status": "Online",
+  "announcement": "The King is Back! Global Support Added ❤️",
+  "models": {
+    "samsung": ["Galaxy A15 (SM-A155F)", "S25 Ultra (S938U1)"],
+    "xiaomi": ["Xiaomi 15T Pro", "Redmi 15 5G"],
+    "infinix_tecno": ["Infinix Zero 40 5G", "TECNO POVA 7 Pro"],
+    "oppo_realme": ["Oppo Reno 13 Pro", "Realme GT 7 Pro"],
+    "huawei": ["Huawei Enjoy 50", "Kirin Universal (710/810/980/990)"]
+  }
+}
