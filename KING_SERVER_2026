@@ -1,0 +1,10 @@
+{
+  "version": "2026.12.0",
+  "status": "Online",
+  "models": {
+    "samsung": ["Galaxy A15 (SM-A155F)", "S25 Ultra (S938U1)"],
+    "huawei": ["Huawei Enjoy 50", "Kirin Universal (710/810/980/990)"],
+    "infinix_tecno": ["Infinix Zero 40 5G", "TECNO POVA 7 Pro"],
+    "oppo_realme": ["Oppo Reno 13 Pro", "Realme GT 7 Pro"]
+  }
+}
